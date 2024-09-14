@@ -1,5 +1,9 @@
-## Hi there 👋
+## Welcome to the profile!🍀
 
+I'm Feru, and this account is mine.<br>
+A CS student from Indonesia.
+
+LinkedIn: [ferupk](www.linkedin.com/in/ferupk)
 <!--
 **ferupk/ferupk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
